@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/repo-name/static/css/main.1882c5c6.css",
-    "main.js": "/repo-name/static/js/main.470f0e8e.js",
-    "index.html": "/repo-name/index.html",
-    "main.1882c5c6.css.map": "/repo-name/static/css/main.1882c5c6.css.map",
-    "main.470f0e8e.js.map": "/repo-name/static/js/main.470f0e8e.js.map"
+    "main.css": "/KeeperApp/static/css/main.1882c5c6.css",
+    "main.js": "/KeeperApp/static/js/main.470f0e8e.js",
+    "index.html": "/KeeperApp/index.html",
+    "main.1882c5c6.css.map": "/KeeperApp/static/css/main.1882c5c6.css.map",
+    "main.470f0e8e.js.map": "/KeeperApp/static/js/main.470f0e8e.js.map"
   },
   "entrypoints": [
     "static/css/main.1882c5c6.css",
